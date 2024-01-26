@@ -1,0 +1,6 @@
+$ ls - list the items in the current directory
+$ mkdir directoryname - creates a new directory
+$ cd directoryname - moves you into the directory listed
+$ touch filename - creates a new file (be sure to include the file extension type)
+$ cp filename filename - copies contents of one file into another
+$ chmod 755 filename - updates permissions of files to allow them to be run.
